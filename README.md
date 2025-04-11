@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/{SUN-AAA}?pet-id=1" width="1500" height="200"/>
+    <img src="https://render.gitanimals.org/lines/{SUN-AAA}?pet-id=1" width="2000" height="200"/>
   </a>
 </div>
 
