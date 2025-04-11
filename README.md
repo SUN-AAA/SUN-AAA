@@ -23,8 +23,8 @@
   
   **About me**
   <br>
-  I'm a student from South Korea.
   <br>
+  I'm a student from South Korea.
   <br>
 
 💼 student
