@@ -23,7 +23,6 @@
   
   **About me**
   <br>
-  <br>
   I'm a student from South Korea.
   <br>
   <br>
