@@ -6,6 +6,9 @@
   </a>
 </div>
 
+<br>
+<br>
+
 <div align="center">
   <h3>백준 티어 🏆</h3>
   <a href="https://solved.ac/profile/sunna0626">
@@ -18,15 +21,18 @@
 <div align = "center">
 I'm a student from South Korea.
 
+<br>
+<br>
+
 **About me**
 
- 💼 student
+💼 student
 
- 📈 Bronze3
+📈 Bronze3
 
- ❤️ I love writing C
-  <br>
-  <br>
+❤️ I love writing C
+<br>
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py)](https://skillicons.dev)
 
