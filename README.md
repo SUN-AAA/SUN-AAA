@@ -31,6 +31,12 @@ I'm a student from South Korea.
 📈 Bronze3
 
 ❤️ I love writing C
+
+**Learning**
+
+✏️ Frontend
+
+✏️Conputer Science
 <br>
 <br>
 
