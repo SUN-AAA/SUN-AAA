@@ -16,21 +16,24 @@
   </a>
 </div>
 
+<hr>
 <br />
 
-<div align = "center">
-I'm a student from South Korea.
-
-<br>
-<br>
-
-**About me**
+<div align="center">
+  About me
+  <br>
+  <br>
+  I'm a student from South Korea.
+  <br>
+  <br>
 
 💼 student
 
 📈 Bronze3
 
 ❤️ I love writing C
+
+<hr>
 
 **Learning**
 
@@ -39,6 +42,7 @@ I'm a student from South Korea.
 ✏️Conputer Science
 <br>
 <br>
+<hr>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py)](https://skillicons.dev)
 
