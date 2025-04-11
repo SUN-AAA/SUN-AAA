@@ -20,7 +20,8 @@
 <br />
 
 <div align="center">
-  About me
+  
+  **About me**
   <br>
   <br>
   I'm a student from South Korea.
