@@ -27,7 +27,7 @@
   I'm a student from South Korea.
   <br>
 
-💼 student
+💼 student - Chosun Univ.
 
 📈 Bronze
 
