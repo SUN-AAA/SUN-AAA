@@ -29,7 +29,7 @@
 
 💼 student
 
-📈 Bronze3
+📈 Bronze
 
 ❤️ I love writing C
 
