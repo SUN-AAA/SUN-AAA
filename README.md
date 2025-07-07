@@ -21,7 +21,7 @@
 
 <div align="center">
   
-  **About me**
+  <h3><b>About me😊</b></h3>
   <br>
   <br>
   I'm a student from South Korea.
@@ -35,7 +35,7 @@
 
 <hr>
 
-**Learning**
+<h3><b>Learning</b></h3>
 
 ✏️ Frontend
 
@@ -48,11 +48,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py)](https://skillicons.dev)
 
-<h3><b>tools</b></h3>
+<h3><b>TOOLS</b></h3>
 
 [![My Skills](https://skillicons.dev/icons?i=discord,github,notion,visualstudio,vscode)](https://skillicons.dev)
 
-<h3><b>learning</b></h3>
+<h3><b>LEARNING</b></h3>
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
 
