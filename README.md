@@ -44,15 +44,15 @@
 <br>
 <hr>
 
-<p>language</p>
+<h3><b>language</b></h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py)](https://skillicons.dev)
 
-<p>tool</p>
+<h3><b>tools</b></h3>
 
 [![My Skills](https://skillicons.dev/icons?i=discord,github,notion,visualstudio,vscode)](https://skillicons.dev)
 
-<p>studying</p>
+<h3><b>learning</b></h3>
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
 
