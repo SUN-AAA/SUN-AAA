@@ -43,7 +43,7 @@
 <br>
 <hr>
 
-<h3><b>language</b></h3>
+<h3><b>LANGUAGE</b></h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py)](https://skillicons.dev)
 
