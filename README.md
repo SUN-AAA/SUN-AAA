@@ -22,8 +22,7 @@
 <div align="center">
   
   <h3><b>About me😊</b></h3>
-  <br>
-  <br>
+  
   I'm a student from South Korea.
   <br>
 
