@@ -38,7 +38,7 @@
 
 ✏️ Frontend
 
-✏️Conputer Science
+✏️Computer Science
 <br>
 <br>
 <hr>
