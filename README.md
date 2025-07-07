@@ -44,7 +44,17 @@
 <br>
 <hr>
 
+<p>language</p>
+<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py)](https://skillicons.dev)
+<br>
+<p>tool</p>
+<br>
+[![My Skills](https://skillicons.dev/icons?i=discord,github,notion,visualstudio,vscode)](https://skillicons.dev)
+<br>
+<p>studying</p>
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
+<br>
 
 | <a href="https://github.com/SUN-AAA/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SUN-AAA&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JSA's github stats" /></a> | <a href="https://github.com/SUN-AAA/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUN-AAA&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
