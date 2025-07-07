@@ -29,7 +29,7 @@
 
 💼 student - Chosun Univ.
 
-📈 Bronze
+📈 BAEKJOON - Silver
 
 ❤️ I love writing C
 
