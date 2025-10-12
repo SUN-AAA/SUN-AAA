@@ -1,5 +1,4 @@
-## 앙뇽 👋
-<hr>
+<h1 align="center">앙뇽</h1>
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/lines/{SUN-AAA}?pet-id=1" width="2000" height="200"/>
@@ -17,25 +16,9 @@
 </div>
 
 <hr>
-<br />
 
 <div align="center">
-  
-  <h3><b>About me😊</b></h3>
-  
-  I'm a student from South Korea.
-  <br>
-
-💼 student - Chosun Univ.
-
-📈 BAEKJOON - Silver
-
-❤️ I love writing C
-
-<hr>
-
 <h3><b>Learning</b></h3>
-
 ✏️ Frontend
 
 ✏️Computer Science
@@ -54,11 +37,6 @@
 <h3><b>LEARNING</b></h3>
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
-
-
-| <a href="https://github.com/SUN-AAA/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SUN-AAA&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JSA's github stats" /></a> | <a href="https://github.com/SUN-AAA/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUN-AAA&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 </div>
-
 
 
