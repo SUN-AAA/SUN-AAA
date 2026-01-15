@@ -1,42 +1,28 @@
-<h1 align="center">앙뇽</h1>
-<div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/{SUN-AAA}?pet-id=1" width="2000" height="200"/>
-  </a>
+<div>
+  <h2>INFORMATION</h2>
+  <p><b>조선대학교 AI소프트웨어학부 컴퓨터공학전공 25학번</b></p>
+  <p><b>License : ADsP, SQLD, 한국사능력검정시험 1급</b></p>
 </div>
 
-<br>
-<br>
-
-<div align="center">
-  <h3>백준 티어 🏆</h3>
+<div>
+  <h2>ALGORITHM</h2>
   <a href="https://solved.ac/profile/sunna0626">
     <img src="https://mazassumnida.wtf/api/generate_badge?boj=sunna0626" alt="Solved.ac Profile" />
   </a>
 </div>
 
-<hr>
+<div>
+  <h2>LANGUAGE</h3>
 
-<div align="center">
-<h3><b>Learning</b></h3>
-✏️ Frontend
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py)](https://skillicons.dev)
 
-✏️Computer Science
-<br>
-<br>
-<hr>
+  <h2>TOOLS</h2>
 
-<h3><b>LANGUAGE</b></h3>
+  [![My Skills](https://skillicons.dev/icons?i=discord,git,github,notion,visualstudio,vscode,idea,docker)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py)](https://skillicons.dev)
+  <h2>LEARNING</h2>
 
-<h3><b>TOOLS</b></h3>
-
-[![My Skills](https://skillicons.dev/icons?i=discord,github,notion,visualstudio,vscode)](https://skillicons.dev)
-
-<h3><b>LEARNING</b></h3>
-
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,vite,nodejs,java,spring)](https://skillicons.dev)
 </div>
 
 
